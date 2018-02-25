@@ -1,0 +1,12 @@
+Lesson 1 :
+Blocks and Inline
+https://www.w3schools.com/html/html_blocks.asp
+
+Udacity important Link
+
+1.  Introduction to programming Webcast Episode : 1
+https://discussions.udacity.com/t/learn-to-code-and-make-a-web-page-webcasts/16000
+
+Webcast Transcript
+
+https://discussions.udacity.com/t/learn-to-code-and-make-a-web-page-webcasts/16000
